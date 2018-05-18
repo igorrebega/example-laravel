@@ -8,4 +8,4 @@ Read more about the [Lucid Architecture Concept](https://medium.com/vine-lab/the
 
 Also we use Swagger to generate API documentation.
 
-Project have tests for each Job, in future we plan to make Tests for features also.
+Project have tests for each Job, in future we plan to make tests for Features also.
