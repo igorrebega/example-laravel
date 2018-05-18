@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+composer.lock
+.idea
+/public/backend/
+/public/mix-manifest.json
+/storage/api-docs/api-docs.json
